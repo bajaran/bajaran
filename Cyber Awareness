@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.square {
+   height:100px;
+   width:400px;
+   background-color:#FFB6C1;
+}
+</style>
+</head>
+<body>
+<h1>    Cyber Awareness   </h1>
+<div class="square"><b>What is Cyber Awareness?</b>
+<br>Cyber awareness is awaring the people from the cyber attacks and how to take precautions from them in they face and Cyber attacks.</br></div>
+<p style="background-color;00FFFF"><strong> &#160; * Types of Cyber attacks:- </b><br><h4><mark>1) Malware:</mark></h4>The term “malware” encompasses various types of attacks including spyware, viruses, and worms. Malware uses a vulnerability to breach a network when a user clicks a “planted” dangerous link or email attachment, which is used to install malicious software inside the system.</br>
+
+<br><b> • Malware and malicious files inside a computer system can:</b>
+
+<h style="color:blue"> ★ Deny access to the critical components of the network</h>
+<h style="color:red"> ★ Obtain information by retrieving data from the hard drive</h>
+<h style="color:orange"> ★ Disrupt the system or even render it inoperable</h>
+<b> • Malware is so common that there is a large variety of modus operandi. The most common types being:</b></br>
+
+<br><b> ★ Viruses—</b>these infect applications attaching themselves to the initialization sequence. The virus replicates itself, infecting other code in the computer system. Viruses can also attach themselves to executable code or associate themselves with a file by creating a virus file with the same name but with an .exe extension, thus creating a decoy which carries the virus.</br>
+<br><b> ★ Trojans—</b>a program hiding inside a useful program with malicious purposes. Unlike viruses, a trojan doesn’t replicate itself and it is commonly used to establish a backdoor to be exploited by attackers.</br>
+<br><b> ★ Worms—</b>unlike viruses, they don’t attack the host, being self-contained programs that propagate across networks and computers. Worms are often installed through email attachments, sending a copy of themselves to every contact in the infected computer email list. They are commonly used to overload an email server and achieve a denial-of-service attack.</br>
+<br><b> ★ Ransomware—</b>a type of malware that denies access to the victim data, threatening to publish or delete it unless a ransom is paid. Advanced ransomware uses cryptoviral extortion, encrypting the victim’s data so that it is impossible to decrypt without the decryption key.</br>
+<br><b> ★ Spyware—</b>a type of program installed to collect information about users, their systems or browsing habits, sending the data to a remote user. The attacker can then use the information for blackmailing purposes or download and install other malicious programs from the web.</br>
+</p>
+</body>
+</html>
+
